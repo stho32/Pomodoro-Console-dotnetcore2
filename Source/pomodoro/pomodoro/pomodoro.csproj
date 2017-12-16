@@ -1,8 +1,12 @@
-<Project Sdk="Microsoft.NET.Sdk">
-
-    <PropertyGroup>
-        <OutputType>Exe</OutputType>
-        <TargetFramework>netcoreapp2.0</TargetFramework>
-    </PropertyGroup>
-
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\pomodoro.BL\pomodoro.BL.csproj">
+      <Project>{C9A9BEF6-E10A-4C7D-93BB-A6163C033F31}</Project>
+      <Name>pomodoro.BL</Name>
+    </ProjectReference>
+  </ItemGroup>
 </Project>

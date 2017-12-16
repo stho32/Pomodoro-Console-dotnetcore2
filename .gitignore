@@ -3,3 +3,6 @@ Source/pomodoro/pomodoro/bin
 Source/pomodoro/pomodoro/obj
 Source/pomodoro/pomodoro.BL.Tests/obj
 Source/pomodoro/pomodoro.BL/obj
+.vscode
+Source/pomodoro/pomodoro.BL.Tests/bin
+Source/pomodoro/pomodoro.BL/bin
