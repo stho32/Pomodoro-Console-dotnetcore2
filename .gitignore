@@ -1,3 +1,5 @@
 Source/pomodoro/.idea
 Source/pomodoro/pomodoro/bin
 Source/pomodoro/pomodoro/obj
+Source/pomodoro/pomodoro.BL.Tests/obj
+Source/pomodoro/pomodoro.BL/obj
